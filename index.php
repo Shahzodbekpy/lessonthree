@@ -83,3 +83,21 @@
 12.Ixtiyoriy xonali Raqamlar yigindisi
 
 */
+
+
+
+
+/*
+n = int(input('Ixtiyoriy son kiriting: '))
+s = 0
+
+while(n > 0):
+    i = n % 10
+    s += i
+    n = int(n / 10)
+print('Raqamlar Yig`indisi = ',s)
+*/
+
+
+
+
